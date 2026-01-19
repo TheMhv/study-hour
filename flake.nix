@@ -15,6 +15,9 @@
         {
           devShells.default = pkgs.mkShell {
             packages = with pkgs; [
+              python313
+              python313Packages.pip
+
               presenterm
               pandoc
               typst
