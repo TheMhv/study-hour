@@ -1,3 +1,6 @@
 [submodule "cashu-protocol_and_nut-10/secp256k1lab"]
 	path = cashu-protocol_and_nut-10/secp256k1lab
 	url = https://github.com/secp256k1lab/secp256k1lab.git
+[submodule "nut-28/secp256k1lab"]
+	path = nut-28/secp256k1lab
+	url = https://github.com/secp256k1lab/secp256k1lab.git
