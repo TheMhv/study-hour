@@ -19,6 +19,7 @@
               python313Packages.pip
 
               presenterm
+              mermaid-cli
               pandoc
               typst
             ];
